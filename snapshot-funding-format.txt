@@ -1,0 +1,21 @@
+Go to - https://vote.honeydao.com/#/honeydao.eth/create
+
+Question - Should Honey DAO collectively fund [Project Name]?
+
+What is your propsal? -
+This is the proposal regarding the funding of [Project Name].
+
+What is [Project Name]?
+[Clear description explaining the project, if possible explain in detail]
+
+[Post sale information, if available]
+
+Concerns - [Post concers mentioned by members, if any]
+
+Forum Post - [Link to the https://hive.honeydao.com post]
+
+Website - [Link to their website]
+Social - [Link to Discord]
+Dealer - [Discord ID]
+
+If this vote passes, [Dealer Discord ID] will contact [Project Name] for private allocation. In case there is a future dispute after contact, we can create a proposal again.
